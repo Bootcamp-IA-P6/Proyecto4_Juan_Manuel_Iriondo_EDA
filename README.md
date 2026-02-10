@@ -8,9 +8,11 @@ Para este proyecto he seleccionado el fichero que guardó y registro datos sobre
 Este fichero es gratuito y de libre acceso.
 
 El fichero es **all-states-history.csv**
-enlace del fichero [aqui] (https://covidtracking.com/data/download)
+enlace del fichero [aqui](https://covidtracking.com/data/download)
 
 Una vez cargados los datos, hago una exploración de esos datos y elaboro un informe con las conclusiones y los descubrimientos.
+
+Guardo una copia final de los datos en el fichero **df_clean.csv**
 
 ## 🛠️ Tecnologías usadas
 
